@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ANotepad.Resources.Styles">
+    <FontFamily x:Key="APL333">pack://application:,,,/Resources/Fonts/#APL333</FontFamily>
+    <FontFamily x:Key="APL385">pack://application:,,,/Resources/Fonts/#APL385</FontFamily>
+</ResourceDictionary>
